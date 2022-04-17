@@ -2,7 +2,6 @@
 .what-we-do {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 94px;
     padding: 94px 0;
 }
 
@@ -52,7 +51,7 @@
 /* 3 pics */
 .what-we-do__pics {
     flex-wrap: wrap;
-    margin-top: 50px;
+    margin: 50px 0 0 0;
     display: flex;
     justify-content: space-between;
 }
